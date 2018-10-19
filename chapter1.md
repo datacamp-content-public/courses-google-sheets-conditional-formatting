@@ -19,7 +19,7 @@ Conditional formatting can be used to bring attention to data that occurs within
 - Check the dates to ensure they are valid. Fix dates as needed.
 - Move the date column next to the item column.
 - Select and conditional format dates in the month of October.
-- Tell us what item sells best in October.
+- Tell us what item has been selling the best in October.
 
 `@hint`
 - Here is the hint for this setup problem. 
