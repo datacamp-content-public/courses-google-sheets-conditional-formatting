@@ -13,12 +13,13 @@ xp: 100
 skills: 2
 ```
 
-Conditional formatting can be used to accentuate data that occurs within a certain time period.  
+Conditional formatting can be used to bring attention to data that occurs within a certain _time period_. Working with dates in spreadsheets is more difficult than plain numbers, but Sheets has options available in the conditional formatting menu that will make this process easier.
 
 `@instructions`
-- Instruction 1
-- Instruction 2
-- Instruction 3
+- Check the dates to ensure they are valid. Fix dates as needed.
+- Move the date column next to the item column.
+- Select and conditional format dates in the month of October.
+- Tell us what item sells best in October.
 
 `@hint`
 - Here is the hint for this setup problem. 
