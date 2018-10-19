@@ -3,7 +3,7 @@ title: Insert title here
 key: 7cd445d00011c3bbcbfdf671e32f0caa
 
 ---
-## Title Slide
+## Conditional Formatting with Dates
 
 ```yaml
 type: "TitleSlide"
@@ -11,7 +11,8 @@ key: "6a6b3b44c2"
 ```
 
 `@lower_third`
-name: Name Surname
+
+name: Adam Steinfurth
 title: Instructor
 
 
@@ -20,7 +21,7 @@ title: Instructor
 
 
 ---
-## Final Slide
+## Conditional Formatting with Dates
 
 ```yaml
 type: "FinalSlide"
