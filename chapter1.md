@@ -3,7 +3,7 @@ title: Test
 description: Test
 ---
 
-## An exercise title written in sentence case
+## Conditional Formatting a Date Range
 
 ```yaml
 type: NormalExercise
@@ -13,8 +13,7 @@ xp: 100
 skills: 2
 ```
 
-This is the assignment text. It should help provide students with the background information needed.
-The instructions that follow should be in bullet point form with clear guidance for what is expected.
+Conditional formatting can be used to accentuate data that occurs within a certain time period.  
 
 `@instructions`
 - Instruction 1
