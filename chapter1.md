@@ -13,7 +13,7 @@ xp: 100
 skills: 2
 ```
 
-Conditional formatting can be used to bring attention to data that occurs within a certain _time period_. Working with dates in spreadsheets is more difficult than plain numbers, but Sheets has options available in the conditional formatting menu that will make this process easier.
+Conditional formatting can bring attention to data that occurs within a certain _time period_. Working with dates in spreadsheets is more difficult than working with plain numbers, but Sheets has options available in the conditional formatting menu that will make this process easier.
 
 `@instructions`
 - Check the dates to ensure they are valid. Fix dates as needed.
@@ -22,10 +22,7 @@ Conditional formatting can be used to bring attention to data that occurs within
 - Tell us what item has been selling the best in October.
 
 `@hint`
-- Here is the hint for this setup problem. 
-- It should get students 50% of the way to the correct answer.
-- So don't provide the answer, but don't just reiterate the instructions.
-- Typically one hint per instruction is a sensible amount.
+- Use the DATE function to check for valid dates.
 
 `@pre_exercise_code`
 ```{python}
