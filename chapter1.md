@@ -17,12 +17,12 @@ Conditional formatting can bring attention to data that occurs within a certain 
 
 `@instructions`
 - Check the dates to ensure they are valid. Fix dates as needed.
-- Move the date column next to the item column.
-- Select and conditional format dates in the month of October.
-- Tell us what item has been selling the best in October.
+- Select and conditional format dates in the last week.
+- Tell us what item has been selling the best in the last week.
+- Select and conditional format dates from October 10, 2018 through October 13, 2018.
 
 `@hint`
-- Use the DATE function to check for valid dates.
+- Use the DATEVALUE function to check for valid dates.
 
 `@pre_exercise_code`
 ```{python}
