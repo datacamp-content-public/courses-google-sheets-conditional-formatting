@@ -21,7 +21,23 @@ title: Instructor
 
 
 ---
-## Conditional Formatting with Dates
+## Date-Aware Formatting
+
+```yaml
+type: "FullImageSlide"
+key: "e3edb2fbfe"
+```
+
+`@part1`
+
+
+
+`@script`
+
+
+
+---
+## Static Date Formatting
 
 ```yaml
 type: "FinalSlide"
