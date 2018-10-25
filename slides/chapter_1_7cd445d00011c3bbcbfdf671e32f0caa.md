@@ -39,6 +39,56 @@ You have all of the items in green that you know need to go back and you have th
 
 
 ---
+## Localization settings
+
+```yaml
+type: "FullSlide"
+key: "df8034a7b6"
+```
+
+`@part1`
+- Check your settings
+
+- Examples are MM/DD/YYYY
+
+
+`@script`
+
+
+
+---
+## Valid Dates
+
+```yaml
+type: "FullSlide"
+key: "ddb2305838"
+```
+
+`@part1`
+Use the `DATEVALUE` function
+
+
+`@script`
+
+
+
+---
+## Table of Data
+
+```yaml
+type: "FullCodeSlide"
+key: "fb2ccf026d"
+```
+
+`@part1`
+
+
+
+`@script`
+
+
+
+---
 ## Conditional Formatting with Dates
 
 ```yaml
