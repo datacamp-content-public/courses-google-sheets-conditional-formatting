@@ -1,6 +1,8 @@
 ---
 title: Insert title here
 key: 7cd445d00011c3bbcbfdf671e32f0caa
+video_link:
+  mp3: http://assets.datacamp.com/production/repositories/3835/datasets/5d0dbbac0b8c968c7fe53d8440627a8207bfb440/ice_audio_20181023-212612.mp3
 
 ---
 ## Conditional Formatting with Dates
