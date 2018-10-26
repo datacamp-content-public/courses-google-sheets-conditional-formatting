@@ -31,7 +31,7 @@ key: "fee0a68c96"
 ```
 
 `@part1`
-![](http://assets.datacamp.com/production/repositories/3835/datasets/dc08a0e8ba4bdb5e6e01ab60323783138b2f0ba1/table_of_data.png)
+!(http://assets.datacamp.com/production/repositories/3835/datasets/dc08a0e8ba4bdb5e6e01ab60323783138b2f0ba1/table_of_data.png)
 
 
 `@script`
@@ -52,7 +52,7 @@ key: "4647993e0e"
 
 
 `@script`
-
+The first thing is today’s date. Some of these actions that we are going to do are dynamic because of what the date is. It is helpful to know that today is October 20, 2018.
 
 
 ---
@@ -70,11 +70,11 @@ key: "df8034a7b6"
 
 
 `@script`
-
+The next thing that you probably noticed by now is that I’m in a country that is showing the month first, and then the day, and then the year. You might not be. Just make sure yours is right for the way you want to work on it. Go to file, spreadsheet settings and make sure the locale is correct. Mine is the United States. If that’s not correct, change it there. Then, you can work with the dates in a way that makes sense to you.
 
 
 ---
-## Valid Dates
+## Highlight Your Dates
 
 ```yaml
 type: "FullSlide"
@@ -82,11 +82,11 @@ key: "ddb2305838"
 ```
 
 `@part1`
-Use the `DATEVALUE` function
+
 
 
 `@script`
-
+The first thing that I would do I highlight the dates that you want to work on. I would just highlight the dates. I wouldn’t highlight any of the other columns because Google Sheets might think that these are dates too. Then, start you conditional formatting.
 
 
 ---
