@@ -67,7 +67,7 @@ key: "77cb9baa5f"
 ```
 
 `@part1`
-
+![settings](http://assets.datacamp.com/production/repositories/3835/datasets/eb9a03602c1ed202aed2b82a8a4409a895d903a2/settings.png)
 
 
 `@script`
