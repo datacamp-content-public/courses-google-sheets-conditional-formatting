@@ -31,7 +31,7 @@ key: "fee0a68c96"
 ```
 
 `@part1`
-!(http://assets.datacamp.com/production/repositories/3835/datasets/dc08a0e8ba4bdb5e6e01ab60323783138b2f0ba1/table_of_data.png)
+![Table of Data](http://assets.datacamp.com/production/repositories/3835/datasets/dc08a0e8ba4bdb5e6e01ab60323783138b2f0ba1/table_of_data.png)
 
 
 `@script`
@@ -47,7 +47,10 @@ key: "4647993e0e"
 ```
 
 `@part1`
-`=TODAY`
+"Today's" Date
+
+`=TODAY()`
+
 10/20/2018
 
 
@@ -59,14 +62,12 @@ The first thing is today’s date. Some of these actions that we are going to do
 ## Localization settings
 
 ```yaml
-type: "FullSlide"
-key: "df8034a7b6"
+type: "FullImageSlide"
+key: "77cb9baa5f"
 ```
 
 `@part1`
-- Check your settings
 
-- Examples are MM/DD/YYYY
 
 
 `@script`
