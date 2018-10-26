@@ -2,7 +2,7 @@
 title: Insert title here
 key: 7cd445d00011c3bbcbfdf671e32f0caa
 video_link:
-  mp3: http://assets.datacamp.com/production/repositories/3835/datasets/0758e6ebbb827554d5df3646b807ff577fe347fc/warehouse_inv.mp3
+  mp3: http://assets.datacamp.com/production/repositories/3835/datasets/6505bcfe1fadf25b748950782436b180eb359040/dates.mp3
 
 ---
 ## Conditional Formatting with Dates
