@@ -135,7 +135,7 @@ key: "97ac571745"
 
 
 `@script`
-Go back to Format left click on Conditional Formatting. You’ll get your little dashboard here on the right. You can see that the range is right. You could’ve just typed it in there but it usually easier to pick it up with your mouse. There’s three options here that are aware of what the date today is. All three of these are going to operate differently tomorrow and they will have operated differently yesterday. 
+Go to Format and then Conditional Formatting. You’ll get this little dashboard on the right. There’s three options here that are aware of what the date today is. All three of these are going to operate differently tomorrow and they will have operated differently yesterday. 
 
 I am going to use Date is. What I am actually looking for is all of the items that were made in the last week.
 
@@ -185,7 +185,7 @@ key: "e1655ff594"
 
 
 `@script`
-Use the Date is function.
+Use the Date is choice on the menu.
 
 
 ---
