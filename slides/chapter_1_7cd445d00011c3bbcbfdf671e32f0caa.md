@@ -28,6 +28,7 @@ Now we are going to go over Conditional Formatting using dates. Sheets has some 
 ```yaml
 type: "FullImageSlide"
 key: "fee0a68c96"
+center_content: true
 ```
 
 `@part1`
@@ -44,6 +45,7 @@ Here we have a table of data here and it represents a warehouse in the back of t
 ```yaml
 type: "FullCodeSlide"
 key: "4647993e0e"
+center_content: true
 ```
 
 `@part1`
@@ -60,6 +62,7 @@ The first thing is today’s date, which is the date on which these slides were 
 ```yaml
 type: "FullSlide"
 key: "8aa1517904"
+center_content: true
 ```
 
 `@part1`
@@ -78,6 +81,7 @@ The next thing that you probably noticed by now is that I’m in a country that 
 ```yaml
 type: "FullImageSlide"
 key: "77cb9baa5f"
+center_content: true
 ```
 
 `@part1`
@@ -94,6 +98,7 @@ Go to file, spreadsheet settings, make sure the locale is correct.
 ```yaml
 type: "FullImageSlide"
 key: "97fe97d322"
+center_content: true
 ```
 
 `@part1`
@@ -110,6 +115,7 @@ Mine is the United States. If that’s not correct, change it there. Then, you c
 ```yaml
 type: "FullSlide"
 key: "ddb2305838"
+center_content: true
 ```
 
 `@part1`
@@ -126,6 +132,7 @@ The first thing that I would do I highlight the dates that you want to work on. 
 ```yaml
 type: "FullImageSlide"
 key: "97ac571745"
+center_content: true
 ```
 
 `@part1`
@@ -144,6 +151,7 @@ I am going to use Date is. What I am actually looking for is all of the items th
 ```yaml
 type: "FullImageSlide"
 key: "22f63169d5"
+center_content: true
 ```
 
 `@part1`
@@ -160,6 +168,7 @@ At first, I would think that I want to look at Date is before. But, be careful.
 ```yaml
 type: "FullImageSlide"
 key: "40bd134c38"
+center_content: true
 ```
 
 `@part1`
@@ -176,6 +185,7 @@ If you do Date is before, some of these options look like they’re going to do 
 ```yaml
 type: "FullImageSlide"
 key: "e1655ff594"
+center_content: true
 ```
 
 `@part1`
@@ -192,6 +202,7 @@ Use the Date is choice on the menu.
 ```yaml
 type: "FullImageSlide"
 key: "ca2b3705c4"
+center_content: true
 ```
 
 `@part1`
@@ -208,6 +219,7 @@ In the next box, you want to use the Past week.
 ```yaml
 type: "FullImageSlide"
 key: "0ad552a2b2"
+center_content: true
 ```
 
 `@part1`
