@@ -73,7 +73,7 @@ Use the `DATEVALUE` function
 
 
 ---
-## Table of Data
+## Localization Settings
 
 ```yaml
 type: "FullCodeSlide"
@@ -81,7 +81,7 @@ key: "fb2ccf026d"
 ```
 
 `@part1`
-![http://assets.datacamp.com/production/repositories/3835/datasets/dc08a0e8ba4bdb5e6e01ab60323783138b2f0ba1/table_of_data.png]
+
 
 
 `@script`
@@ -89,7 +89,7 @@ We have a table of data here and it represents a warehouse in the back of this s
 
 
 ---
-## Conditional Formatting with Dates
+## Let's Practice!
 
 ```yaml
 type: "FinalSlide"
