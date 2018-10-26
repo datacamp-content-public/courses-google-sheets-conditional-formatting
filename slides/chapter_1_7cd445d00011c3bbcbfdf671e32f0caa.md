@@ -49,7 +49,7 @@ key: "4647993e0e"
 `@part1`
 "Today's" Date
 
-`=TODAY()`
+`=TODAY()`{{1}}
 
 10/20/2018
 
