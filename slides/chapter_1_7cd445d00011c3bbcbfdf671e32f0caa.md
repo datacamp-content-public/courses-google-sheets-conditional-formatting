@@ -187,7 +187,7 @@ key: "e1655ff594"
 
 
 `@script`
-
+Use the Date is function.
 
 
 ---
@@ -199,11 +199,11 @@ key: "ca2b3705c4"
 ```
 
 `@part1`
-![In the Past Week](http://assets.datacamp.com/production/repositories/3835/datasets/20c1e777f52fe4e97daf5fab2076b4588ec54e1c/in_the_past_weeek.png)
+![In the Past Week](http://assets.datacamp.com/production/repositories/3835/datasets/9559d3097c55b7c327c38282d07ecce2e97b4a8f/in_the_past_weeek_menu.png)
 
 
 `@script`
-
+In here, use the Past week.
 
 
 ---
@@ -219,9 +219,7 @@ key: "0ad552a2b2"
 
 
 `@script`
-Use the Date is function. In here, use the Past week. That is going to pick up seven items. That’s what you want. This is the last seven days including today. 
-
-So, there you have the list. You can print this out on a color printer and go back to the warehouse and pull these out because you are going to send them back to the vendor.
+That is going to pick up seven items. That’s what you want. This is the last seven days including today.
 
 
 ---
