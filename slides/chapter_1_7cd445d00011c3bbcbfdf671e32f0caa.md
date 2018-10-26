@@ -99,7 +99,7 @@ key: "97fe97d322"
 ```
 
 `@part1`
-![United States](http://assets.datacamp.com/production/repositories/3835/datasets/620c9c0b109e1fad40f0cf24fc39220268e79111/united_states.png)
+![United States](http://assets.datacamp.com/production/repositories/3835/datasets/3aafa75a83da3a48cff1378f1ef1e9374a18c49d/united_states.png)
 
 
 `@script`
