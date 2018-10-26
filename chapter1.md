@@ -1,6 +1,6 @@
 ---
-title: Test
-description: Test
+title: 'Conditional Formatting'
+description: ""
 ---
 
 ## Conditional Formatting with Dates
