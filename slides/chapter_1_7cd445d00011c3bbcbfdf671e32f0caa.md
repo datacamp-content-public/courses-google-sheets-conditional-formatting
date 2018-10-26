@@ -167,11 +167,27 @@ key: "40bd134c38"
 ```
 
 `@part1`
-![Before Past Week](http://assets.datacamp.com/production/repositories/3835/datasets/a86080f1430258f987b98576254a8cc440409100/before_past_week.png)
+![Date Is](http://assets.datacamp.com/production/repositories/3835/datasets/a86080f1430258f987b98576254a8cc440409100/before_past_week.png)
 
 
 `@script`
 If you do Date is before, some of these options look like they’re going to do the past week, but what that will do is that is that it is going to go before the past week. If you were to choose that, it’s picking up 10/8 and 10/9.  Those are more than a week back. That’s not what you want.
+
+
+---
+## Date Is
+
+```yaml
+type: "FullImageSlide"
+key: "e1655ff594"
+```
+
+`@part1`
+![Date Is](http://assets.datacamp.com/production/repositories/3835/datasets/1b65ac609ff851068e1df6c60c3b1adad3bdcf75/date_is.png)
+
+
+`@script`
+
 
 
 ---
