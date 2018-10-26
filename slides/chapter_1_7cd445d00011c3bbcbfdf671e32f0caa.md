@@ -2,7 +2,7 @@
 title: Insert title here
 key: 7cd445d00011c3bbcbfdf671e32f0caa
 video_link:
-  mp3: http://assets.datacamp.com/production/repositories/3835/datasets/6505bcfe1fadf25b748950782436b180eb359040/dates.mp3
+  mp3: http://assets.datacamp.com/production/repositories/3835/datasets/b4b3f4900ccbd702f9a5744b909780b1122a2495/warehouse_inv.mp3
 
 ---
 ## Conditional Formatting with Dates
@@ -135,7 +135,7 @@ key: "97ac571745"
 
 
 `@script`
-Go to Format and then Conditional Formatting. You’ll get this little dashboard on the right. There’s three options here that are aware of what the date today is. All three of these are going to operate differently tomorrow and they will have operated differently yesterday. 
+Go to Format on the menu and then Conditional Formatting. You’ll get this little dashboard that you see on the right. There’s three options here and they're all are aware of what the date is today. All three of these are going to operate differently tomorrow and they will have operated differently yesterday as well. 
 
 I am going to use Date is. What I am actually looking for is all of the items that were made in the last week.
 
@@ -169,7 +169,7 @@ key: "40bd134c38"
 
 
 `@script`
-If you do Date is before, some of these options look like they’re going to do the past week, but what that will do is that is that it is going to go before the past week. If you were to choose that, it’s picking up 10/8 and 10/9.  Those are more than a week back. That’s not what you want.
+If you do Date is before, some of these options look like they’re going to do the past week, but what that will do is that is that it is going to go before the past week. If you were to choose that, it would pick up 10/8 and 10/9.  Those are more than a week back. That’s not what you want.
 
 
 ---
@@ -201,7 +201,7 @@ key: "ca2b3705c4"
 
 
 `@script`
-In here, use the Past week.
+In the next box, you want to use the Past week.
 
 
 ---
@@ -217,7 +217,7 @@ key: "0ad552a2b2"
 
 
 `@script`
-That is going to pick up seven items. That’s what you want. This is the last seven days including today.
+So that's it. That's what we've been trying to do with conditional formatting. We've gone in and we've highlighted all of the items that were manufactured in the last seven days. You can just print out this list, bring it out to your warehouse, and pull those items out.
 
 
 ---

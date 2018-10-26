@@ -8,107 +8,100 @@
       }
     },
     {
-      "timing": 0.003567112968244847,
+      "timing": 0.03812360442754283,
       "state": {
         "indexh": 0,
         "indexf": 0
       }
     },
     {
-      "timing": 0.009282244210633126,
+      "timing": 0.06532959629748206,
       "state": {
         "indexh": 1,
         "indexf": -1
       }
     },
     {
-      "timing": 0.10597640788961878,
+      "timing": 0.2477748504706363,
       "state": {
         "indexh": 2,
         "indexf": -1
       }
     },
     {
-      "timing": 0.14369963745392667,
+      "timing": 0.2958459242748677,
       "state": {
         "indexh": 2,
         "indexf": 0
       }
     },
     {
-      "timing": 0.15635911976771882,
+      "timing": 0.3038748839863635,
       "state": {
         "indexh": 3,
         "indexf": -1
       }
     },
     {
-      "timing": 0.20866200853989358,
+      "timing": 0.3775490258059817,
       "state": {
         "indexh": 4,
         "indexf": -1
       }
     },
     {
-      "timing": 0.22958742373990212,
+      "timing": 0.42157692285058074,
       "state": {
         "indexh": 5,
         "indexf": -1
       }
     },
     {
-      "timing": 0.24858476020849793,
+      "timing": 0.4777097977018604,
       "state": {
         "indexh": 6,
         "indexf": -1
       }
     },
     {
-      "timing": 0.30198427418009666,
+      "timing": 0.5754189507570874,
       "state": {
         "indexh": 7,
         "indexf": -1
       }
     },
     {
-      "timing": 0.41795722499686694,
+      "timing": 0.7449832984852766,
       "state": {
         "indexh": 8,
         "indexf": -1
       }
     },
     {
-      "timing": 0.4721067128517744,
+      "timing": 0.7793260080979053,
       "state": {
         "indexh": 9,
         "indexf": -1
       }
     },
     {
-      "timing": 0.5085447970654355,
+      "timing": 0.8941357080398987,
       "state": {
         "indexh": 10,
         "indexf": -1
       }
     },
     {
-      "timing": 0.5281645790362228,
+      "timing": 0.9246109417175723,
       "state": {
         "indexh": 11,
         "indexf": -1
       }
     },
     {
-      "timing": 0.5509651719750669,
+      "timing": 0.9527814867538644,
       "state": {
         "indexh": 12,
-        "indexf": -1
-      }
-    },
-    {
-      "timing": 0.6032948007473191,
-      "state": {
-        "indexh": 13,
         "indexf": -1
       }
     }
