@@ -19,7 +19,7 @@ title: Instructor
 
 
 `@script`
-
+Now we are going to go over Conditional Formatting using dates. Sheets has some built in functionality for dealing with them which is what we are going to be looking at.
 
 
 ---
