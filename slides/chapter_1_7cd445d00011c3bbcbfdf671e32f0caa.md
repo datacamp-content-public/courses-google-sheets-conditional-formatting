@@ -63,9 +63,9 @@ key: "8aa1517904"
 ```
 
 `@part1`
-Month, Day, Year
+Month, Day, Year{{1}}
 
-MM/DD/YYYY
+MM/DD/YYYY{{2}}
 
 
 `@script`
