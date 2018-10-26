@@ -39,6 +39,23 @@ key: "fee0a68c96"
 
 
 ---
+## "Today's" Date
+
+```yaml
+type: "FullCodeSlide"
+key: "4647993e0e"
+```
+
+`@part1`
+`=TODAY`
+10/20/2018
+
+
+`@script`
+
+
+
+---
 ## Localization settings
 
 ```yaml
@@ -73,7 +90,7 @@ Use the `DATEVALUE` function
 
 
 ---
-## Localization Settings
+## Within the Last Week
 
 ```yaml
 type: "FullCodeSlide"
@@ -81,11 +98,60 @@ key: "fb2ccf026d"
 ```
 
 `@part1`
-
+No - Date is before
+Yes - Date is
 
 
 `@script`
 We have a table of data here and it represents a warehouse in the back of this shop. It’s all the same item, but they have a specific SKU based on the date on which they were manufactured. You just found out that everything produced in the last week needs to be sent back. We’re going to do some formatting to point out which items those are that were made in the last week but, before we do that, there’s a couple of setup items that we need to be aware of.
+
+
+---
+## Result showing last week's items
+
+```yaml
+type: "FullImageSlide"
+key: "40bd134c38"
+```
+
+`@part1`
+
+
+
+`@script`
+
+
+
+---
+## Two More Days
+
+```yaml
+type: "FullSlide"
+key: "c1c283003e"
+```
+
+`@part1`
+Is between
+
+
+`@script`
+
+
+
+---
+## Result Showing Two More Days
+
+```yaml
+type: "FullImageSlide"
+key: "951cc2d8d6"
+```
+
+`@part1`
+
+
+
+`@script`
+
 
 
 ---
