@@ -2,7 +2,7 @@
 title: Insert title here
 key: 7cd445d00011c3bbcbfdf671e32f0caa
 video_link:
-  mp3: http://assets.datacamp.com/production/repositories/3835/datasets/b4b3f4900ccbd702f9a5744b909780b1122a2495/warehouse_inv.mp3
+  mp3: http://assets.datacamp.com/production/repositories/3835/datasets/086d215ecbaefaffec54922d660336d7b0aee3ce/warehouse_inv.mp3
 
 ---
 ## Conditional Formatting with Dates
@@ -35,7 +35,7 @@ key: "fee0a68c96"
 
 
 `@script`
-We have a table of data here and it represents a warehouse in the back of this shop. It’s all the same item, but they have a specific SKU based on the date on which they were manufactured. You just found out that everything produced in the last week needs to be sent back. We’re going to do some formatting to point out which items those are that were made in the last week but, before we do that, there’s a couple of setup items that we need to be aware of.
+Here we have a table of data here and it represents a warehouse in the back of this shop. It’s all the same item, but they have a specific SKU based on the date on which they were manufactured. You just found out that everything produced in the last week needs to be sent back. We’re going to do some formatting to point out which items those are that were made in the last week but, before we do that, there’s a couple of setup items that we need to be aware of.
 
 
 ---
@@ -53,7 +53,7 @@ key: "4647993e0e"
 
 
 `@script`
-The first thing is today’s date. Some of these actions that we are going to do are dynamic because of what the date is. It is helpful to know that today is October 20, 2018.
+The first thing is today’s date, which is the date on which these slides were made is October 20, 2018.
 
 
 ---
@@ -87,7 +87,7 @@ key: "77cb9baa5f"
 
 
 `@script`
-Go to file, spreadsheet settings and make sure the locale is correct.
+Go to file, spreadsheet settings, make sure the locale is correct.
 
 
 ---
@@ -135,7 +135,7 @@ key: "97ac571745"
 
 
 `@script`
-Go to Format on the menu and then Conditional Formatting. You’ll get this little dashboard that you see on the right. There’s three options here and they're all are aware of what the date is today. All three of these are going to operate differently tomorrow and they will have operated differently yesterday as well. 
+Go up to Format on the menu and then Conditional Formatting. You’ll get this little dashboard that you see on the right. There’s three options here and they're all are aware of what the date is today. All three of these are going to operate differently tomorrow and they will have operated differently yesterday as well. 
 
 I am going to use Date is. What I am actually looking for is all of the items that were made in the last week.
 
@@ -169,7 +169,7 @@ key: "40bd134c38"
 
 
 `@script`
-If you do Date is before, some of these options look like they’re going to do the past week, but what that will do is that is that it is going to go before the past week. If you were to choose that, it would pick up 10/8 and 10/9.  Those are more than a week back. That’s not what you want.
+If you do Date is before, some of these options look like they’re going to do the past week, but what will happen is that is that it is going to go before the past week. If you were to choose that, it would pick up 10/8 and 10/9.  Those are more than a week back. That’s not what you want.
 
 
 ---
@@ -229,5 +229,5 @@ key: "d180471a53"
 ```
 
 `@script`
-
+That should cover the date options that are relative to a specific day. In our next lesson, we'll cover date options that let you specify specific dates no matter what date it is right now.
 
