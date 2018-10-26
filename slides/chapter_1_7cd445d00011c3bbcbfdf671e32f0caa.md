@@ -191,7 +191,7 @@ key: "e1655ff594"
 
 
 ---
-## In the Last Week
+## In the Past Week
 
 ```yaml
 type: "FullImageSlide"
@@ -199,7 +199,7 @@ key: "ca2b3705c4"
 ```
 
 `@part1`
-![](http://assets.datacamp.com/production/repositories/3835/datasets/20c1e777f52fe4e97daf5fab2076b4588ec54e1c/in_the_past_weeek.png)
+![In the Last Week](http://assets.datacamp.com/production/repositories/3835/datasets/20c1e777f52fe4e97daf5fab2076b4588ec54e1c/in_the_past_weeek.png)
 
 
 `@script`
