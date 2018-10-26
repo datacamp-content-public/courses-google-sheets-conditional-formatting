@@ -31,7 +31,7 @@ key: "fee0a68c96"
 ```
 
 `@part1`
-![Table of Data](http://assets.datacamp.com/production/repositories/3835/datasets/dc08a0e8ba4bdb5e6e01ab60323783138b2f0ba1/table_of_data.png)
+![Table of Data](http://assets.datacamp.com/production/repositories/3835/datasets/eb5d98aa53b4a25fc4fe6b85bd4e0c27fbd06780/table_of_data.png)
 
 
 `@script`
