@@ -59,6 +59,24 @@ The first thing is today’s date. Some of these actions that we are going to do
 
 
 ---
+## Country Specific
+
+```yaml
+type: "FullSlide"
+key: "8aa1517904"
+```
+
+`@part1`
+Month, Day, Year
+
+MM/DD/YYYY
+
+
+`@script`
+The next thing that you probably noticed by now is that I’m in a country that is showing the month first, and then the day, and then the year. You might not be. Just make sure yours is right for the way you want to work on it.
+
+
+---
 ## Localization settings
 
 ```yaml
@@ -71,7 +89,23 @@ key: "77cb9baa5f"
 
 
 `@script`
-The next thing that you probably noticed by now is that I’m in a country that is showing the month first, and then the day, and then the year. You might not be. Just make sure yours is right for the way you want to work on it. Go to file, spreadsheet settings and make sure the locale is correct. Mine is the United States. If that’s not correct, change it there. Then, you can work with the dates in a way that makes sense to you.
+Go to file, spreadsheet settings and make sure the locale is correct.
+
+
+---
+## United States
+
+```yaml
+type: "FullImageSlide"
+key: "97fe97d322"
+```
+
+`@part1`
+![United States](http://assets.datacamp.com/production/repositories/3835/datasets/620c9c0b109e1fad40f0cf24fc39220268e79111/united_states.png)
+
+
+`@script`
+Mine is the United States. If that’s not correct, change it there. Then, you can work with the dates in a way that makes sense to you.
 
 
 ---
@@ -83,7 +117,7 @@ key: "ddb2305838"
 ```
 
 `@part1`
-
+![Highlight the Dates](http://assets.datacamp.com/production/repositories/3835/datasets/92fe84bed06fa357ed08c6dcc327f439a36d60f5/highlight_dates.png)
 
 
 `@script`
@@ -94,17 +128,18 @@ The first thing that I would do I highlight the dates that you want to work on. 
 ## Within the Last Week
 
 ```yaml
-type: "FullCodeSlide"
-key: "fb2ccf026d"
+type: "FullImageSlide"
+key: "97ac571745"
 ```
 
 `@part1`
-No - Date is before
-Yes - Date is
+![Within the Last Week](http://assets.datacamp.com/production/repositories/3835/datasets/1b65ac609ff851068e1df6c60c3b1adad3bdcf75/date_is.png)
 
 
 `@script`
+Go back to Format left click on Conditional Formatting. You’ll get your little dashboard here on the right. You can see that the range is right. You could’ve just typed it in there but it usually easier to pick it up with your mouse. There’s three options here that are aware of what the date today is. All three of these are going to operate differently tomorrow and they will have operated differently yesterday. 
 
+I am going to use Date is. What I am actually looking for is all of the items that were made in the last week.
 
 
 ---
