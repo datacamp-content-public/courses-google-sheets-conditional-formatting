@@ -6,48 +6,6 @@
         "indexh": 0,
         "indexf": -1
       }
-    },
-    {
-      "timing": 0.6712800161827784,
-      "state": {
-        "indexh": 4,
-        "indexf": -1
-      }
-    },
-    {
-      "timing": 0.6712800161827784,
-      "state": {
-        "indexh": 3,
-        "indexf": -1
-      }
-    },
-    {
-      "timing": 0.6712800161827784,
-      "state": {
-        "indexh": 2,
-        "indexf": -1
-      }
-    },
-    {
-      "timing": 0.6712800161827787,
-      "state": {
-        "indexh": 1,
-        "indexf": -1
-      }
-    },
-    {
-      "timing": 0.6712800161827787,
-      "state": {
-        "indexh": 0,
-        "indexf": 0
-      }
-    },
-    {
-      "timing": 0.9435906517189865,
-      "state": {
-        "indexh": 5,
-        "indexf": -1
-      }
     }
   ]
 }
