@@ -5,7 +5,7 @@ video_link:
   mp3: http://assets.datacamp.com/production/repositories/3835/datasets/086d215ecbaefaffec54922d660336d7b0aee3ce/warehouse_inv.mp3
 
 ---
-## Conditional Formatting with Dates
+## Conditional Formatting with Today's Date
 
 ```yaml
 type: "TitleSlide"
@@ -19,7 +19,7 @@ title: Instructor
 
 
 `@script`
-Now we are going to go over Conditional Formatting using dates. Sheets has some built in functionality for dealing with them which is what we are going to be looking at.
+Now we are going to go over Conditional Formatting using relative dates. Sheets has some built in functionality for formatting dates relative the current date on which you're using the spreadsheet.
 
 
 ---
@@ -36,7 +36,7 @@ center_content: true
 
 
 `@script`
-Here we have a table of data here and it represents a warehouse in the back of this shop. It’s all the same item, but they have a specific SKU based on the date on which they were manufactured. You just found out that everything produced in the last week needs to be sent back. We’re going to do some formatting to point out which items those are that were made in the last week but, before we do that, there’s a couple of setup items that we need to be aware of.
+Here we have a table of data and it represents a warehouse in the back of this shop. It’s all the same item, but they have a unique SKU based on the date on which they were manufactured. You just found out that everything manufactured in the last week needs to be sent back. We’re going to do some formatting to point out which items those are but, before we do that, there are a couple of setup items that we need to be aware of.
 
 
 ---
