@@ -2,7 +2,7 @@
 title: Insert title here
 key: 7cd445d00011c3bbcbfdf671e32f0caa
 video_link:
-  mp3: http://assets.datacamp.com/production/repositories/3835/datasets/086d215ecbaefaffec54922d660336d7b0aee3ce/warehouse_inv.mp3
+  mp3: http://assets.datacamp.com/production/repositories/3835/datasets/09cbe83bfc87c5ee6aa20f7a2be4b18a29ac7c46/warehouse_inv.mp3
 
 ---
 ## Conditional Formatting with Today's Date
@@ -106,7 +106,7 @@ center_content: true
 
 
 `@script`
-Our example is a table of data that represents a warehouse in the back of a shop. Every line is the same item except that they have each unique SKU based on the date on which they were manufactured. You just found out that everything manufactured in the last week needs to be sent back. We’re going to do some formatting to point out which items those are.
+Our example is a table of data that represents a warehouse in the back of a shop. Every line is the same item except that they have each unique SKU based on the date on which they were manufactured. You just found out that everything manufactured in the last week needs to be sent back. We’re going to do some formatting to point out which items are the ones that were made in the last week.
 
 
 ---
@@ -123,7 +123,7 @@ center_content: true
 
 
 `@script`
-The first thing that I would do I highlight the dates that you want to work on. I would just highlight the column with the dates. I wouldn’t highlight any of the other columns because Google Sheets might think that those other values are dates too. Once you have the dates selected, you can start your conditional formatting.
+The first thing that you want to do is highlight the dates that you want to work on. I would just highlight the column with the dates. I wouldn’t highlight any of the other columns because Google Sheets might think that those other values are dates too. Once you have the dates selected, then you can start your conditional formatting.
 
 
 ---
@@ -139,7 +139,7 @@ key: "277558f41a"
 
 
 `@script`
-You would go up to Format on the menu and then Conditional Formatting.
+You would go up to Format on the menu and then select Conditional Formatting from there.
 
 
 ---
@@ -177,7 +177,7 @@ center_content: true
 
 
 `@script`
-At first, you might think that you want to look at Date is before. But, be careful. If you do Date is before, what will happen is that is that it is going to start one week in the past and go backwards from there. If you were to choose that, it would highlight everything more than 7 days old. That’s not what you want. Use the Date is choice on the menu instead.
+But at first, you might think that you want to look at Date is before. But, be careful. If you do Date is before, what will happen is that is that it is going to start one week in the past and go backwards from there. If you were to choose that, it would highlight everything more than 7 days old. That’s not what you want. Use the Date is choice on the menu instead.
 
 
 ---
@@ -194,7 +194,7 @@ center_content: true
 
 
 `@script`
-In the next box, you want to use the Past week in order to get the last seven days. Choose the Past week and click done.
+In the next box after you click Date is, you want to use the Past week in order to get the last seven days. Choose the Past week and click done.
 
 
 ---
