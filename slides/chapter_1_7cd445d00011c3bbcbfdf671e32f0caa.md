@@ -32,7 +32,7 @@ center_content: true
 ```
 
 `@part1`
-![Table of Data](http://assets.datacamp.com/production/repositories/3835/datasets/eb5d98aa53b4a25fc4fe6b85bd4e0c27fbd06780/table_of_data.png)
+![Table of Data](http://assets.datacamp.com/production/repositories/3835/datasets/520c3228d45f84207e00c591932bd74079cf981e/table_of_data.png)
 
 
 `@script`
@@ -119,11 +119,27 @@ center_content: true
 ```
 
 `@part1`
-![Highlight the Dates](http://assets.datacamp.com/production/repositories/3835/datasets/92fe84bed06fa357ed08c6dcc327f439a36d60f5/highlight_dates.png)
+![Highlight the Dates](http://assets.datacamp.com/production/repositories/3835/datasets/7f362b96b365ee0d6510aea95ab4e35ba79ed015/highlight_dates.png)
 
 
 `@script`
-The first thing that I would do I highlight the dates that you want to work on. I would just highlight the dates. I wouldn’t highlight any of the other columns because Google Sheets might think that these are dates too. Then, start your conditional formatting.
+The first thing that I would do I highlight the dates that you want to work on. I would just highlight the column with the dates. I wouldn’t highlight any of the other columns because Google Sheets might think that those other values are dates too. Then, you can start your conditional formatting.
+
+
+---
+## Conditional Formatting Menu Option
+
+```yaml
+type: "FullImageSlide"
+key: "277558f41a"
+```
+
+`@part1`
+![Menu](http://assets.datacamp.com/production/repositories/3835/datasets/77136595be165d0148745d235a61178aefaad191/menu.png)
+
+
+`@script`
+Go up to Format on the menu and then Conditional Formatting. You’ll get this little dashboard that you see on the right.
 
 
 ---
@@ -136,11 +152,11 @@ center_content: true
 ```
 
 `@part1`
-![Within the Last Week](http://assets.datacamp.com/production/repositories/3835/datasets/1b65ac609ff851068e1df6c60c3b1adad3bdcf75/date_is.png)
+![Within the Last Week](http://assets.datacamp.com/production/repositories/3835/datasets/b9cd0709c0e00e9e4c679eb0607193afa3716cd6/date_is.png)
 
 
 `@script`
-Go up to Format on the menu and then Conditional Formatting. You’ll get this little dashboard that you see on the right. There’s three options here and they're all pertain to today's date. All three of these are going to operate differently tomorrow and they will have operated differently yesterday as well. 
+There’s three options here and they're all pertain to today's date. All three of these are going to operate differently tomorrow and they will have operated differently yesterday as well. 
 
 I am going to use Date is. What I am actually looking for is all of the items that were made in the last week.
 
@@ -155,45 +171,11 @@ center_content: true
 ```
 
 `@part1`
-![Date is Before](http://assets.datacamp.com/production/repositories/3835/datasets/8dd515f8e1e28a012fbbdc0489d0f1f3432aad6e/date_is_before.png)
+![Date is Before](http://assets.datacamp.com/production/repositories/3835/datasets/1466cdac73cc2be7cf5967b8f8e5e211e5128a19/date_is_before.png)
 
 
 `@script`
-At first, I would think that I want to look at Date is before. But, be careful.
-
-
----
-## Result showing last week's items
-
-```yaml
-type: "FullImageSlide"
-key: "40bd134c38"
-center_content: true
-```
-
-`@part1`
-![Date Is](http://assets.datacamp.com/production/repositories/3835/datasets/a86080f1430258f987b98576254a8cc440409100/before_past_week.png)
-
-
-`@script`
-If you do Date is before, some of these options look like they’re going to do the past week, but what will happen is that is that it is going to go before the past week. If you were to choose that, it would pick up 10/8 and 10/9.  Those are more than a week back. That’s not what you want.
-
-
----
-## Date Is
-
-```yaml
-type: "FullImageSlide"
-key: "e1655ff594"
-center_content: true
-```
-
-`@part1`
-![Date Is](http://assets.datacamp.com/production/repositories/3835/datasets/1b65ac609ff851068e1df6c60c3b1adad3bdcf75/date_is.png)
-
-
-`@script`
-Use the Date is choice on the menu.
+At first, you might think that you want to look at Date is before. But, be careful. If you do Date is before, what will happen is that is that it is going to start one week in the past and go backwards. If you were to choose that, it would highlight everything more than 7 days old. That’s not what you want. Use the Date is choice on the menu.
 
 
 ---
@@ -206,11 +188,11 @@ center_content: true
 ```
 
 `@part1`
-![In the Past Week](http://assets.datacamp.com/production/repositories/3835/datasets/9559d3097c55b7c327c38282d07ecce2e97b4a8f/in_the_past_weeek_menu.png)
+![In the Past Week](http://assets.datacamp.com/production/repositories/3835/datasets/b2ed09470a672912a44fbd447c9108f99aa1aac1/in_the_past_weeek_menu.png)
 
 
 `@script`
-In the next box, you want to use the Past week.
+In the next box, you want to use the Past week in order to get the last seven days.
 
 
 ---

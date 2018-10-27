@@ -99,30 +99,16 @@
       }
     },
     {
-      "timing": 0.7927070041506435,
+      "timing": 0.844908953118548,
       "state": {
         "indexh": 10,
         "indexf": -1
       }
     },
     {
-      "timing": 0.8188020395248987,
-      "state": {
-        "indexh": 11,
-        "indexf": -1
-      }
-    },
-    {
-      "timing": 0.844908953118548,
-      "state": {
-        "indexh": 12,
-        "indexf": -1
-      }
-    },
-    {
       "timing": 0.9232052448852132,
       "state": {
-        "indexh": 13,
+        "indexh": 11,
         "indexf": -1
       }
     }
