@@ -36,7 +36,7 @@ center_content: true
 
 
 `@script`
-Here we have a table of data and it represents a warehouse in the back of this shop. It’s all the same item, but they have a unique SKU based on the date on which they were manufactured. You just found out that everything manufactured in the last week needs to be sent back. We’re going to do some formatting to point out which items those are but, before we do that, there are a couple of setup items that we need to be aware of.
+Here we have a table of data and it represents a warehouse in the back of this shop. It’s all the same item, but they have a unique SKU based on the date on which they were manufactured. You just found out that everything manufactured in the last week needs to be sent back. We’re going to do some formatting to point out which items those are.
 
 
 ---
@@ -49,11 +49,11 @@ center_content: true
 ```
 
 `@part1`
-10/20/2018{{1}}
+10/27/2018{{1}}
 
 
 `@script`
-The first thing is today’s date, which is the date on which these slides were made is October 20, 2018.
+It is important to know that "today"’s date, which is the date on which these slides were made, is October 27, 2018. The date of today will be different for you because the functions that we will be reviewing are aware of the current date.
 
 
 ---
@@ -85,7 +85,7 @@ center_content: true
 ```
 
 `@part1`
-![settings](http://assets.datacamp.com/production/repositories/3835/datasets/eb9a03602c1ed202aed2b82a8a4409a895d903a2/settings.png)
+![settings](http://assets.datacamp.com/production/repositories/3835/datasets/0983906b57a3f066ff0c06a195e6509fd8aad68f/settings_zoomed_out.png)
 
 
 `@script`
@@ -106,7 +106,7 @@ center_content: true
 
 
 `@script`
-Mine is the United States. If that’s not correct, change it there. Then, you can work with the dates in a way that makes sense to you.
+Mine is the United States. If that’s not correct, change it here if you need to. Then, you can work with the dates in a way that makes sense to you.
 
 
 ---
@@ -140,7 +140,7 @@ center_content: true
 
 
 `@script`
-Go up to Format on the menu and then Conditional Formatting. You’ll get this little dashboard that you see on the right. There’s three options here and they're all are aware of what the date is today. All three of these are going to operate differently tomorrow and they will have operated differently yesterday as well. 
+Go up to Format on the menu and then Conditional Formatting. You’ll get this little dashboard that you see on the right. There’s three options here and they're all pertain to today's date. All three of these are going to operate differently tomorrow and they will have operated differently yesterday as well. 
 
 I am going to use Date is. What I am actually looking for is all of the items that were made in the last week.
 
