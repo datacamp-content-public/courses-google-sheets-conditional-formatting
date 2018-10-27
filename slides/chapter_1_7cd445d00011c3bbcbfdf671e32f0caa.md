@@ -19,24 +19,7 @@ title: Instructor
 
 
 `@script`
-Now we are going to go over Conditional Formatting using relative dates. Sheets has some built in functionality for formatting dates relative the current date on which you're using the spreadsheet.
-
-
----
-## Warehouse Inventory
-
-```yaml
-type: "FullImageSlide"
-key: "fee0a68c96"
-center_content: true
-```
-
-`@part1`
-![Table of Data](http://assets.datacamp.com/production/repositories/3835/datasets/520c3228d45f84207e00c591932bd74079cf981e/table_of_data.png)
-
-
-`@script`
-Here we have a table of data and it represents a warehouse in the back of this shop. It’s all the same item, but they have a unique SKU based on the date on which they were manufactured. You just found out that everything manufactured in the last week needs to be sent back. We’re going to do some formatting to point out which items those are.
+Now we are going to go over Conditional Formatting using relative dates. Sheets has some built in functionality for formatting dates relative to the current date on which you're using the spreadsheet.
 
 
 ---
@@ -89,7 +72,7 @@ center_content: true
 
 
 `@script`
-Go to file, spreadsheet settings, make sure the locale is correct.
+If you need to adjust your locality, go to File, Spreadsheet settings, and this is where you can change it.
 
 
 ---
@@ -106,7 +89,24 @@ center_content: true
 
 
 `@script`
-Mine is the United States. If that’s not correct, change it here if you need to. Then, you can work with the dates in a way that makes sense to you.
+Mine is the United States. If that’s not correct for you, change it here if you need to. Then, you can work with the dates in a way that makes sense to you.
+
+
+---
+## Warehouse Inventory
+
+```yaml
+type: "FullImageSlide"
+key: "fee0a68c96"
+center_content: true
+```
+
+`@part1`
+![Table of Data](http://assets.datacamp.com/production/repositories/3835/datasets/520c3228d45f84207e00c591932bd74079cf981e/table_of_data.png)
+
+
+`@script`
+Our example is a table of data that represents a warehouse in the back of a shop. Every line is the same item except that they have each unique SKU based on the date on which they were manufactured. You just found out that everything manufactured in the last week needs to be sent back. We’re going to do some formatting to point out which items those are.
 
 
 ---
@@ -123,7 +123,7 @@ center_content: true
 
 
 `@script`
-The first thing that I would do I highlight the dates that you want to work on. I would just highlight the column with the dates. I wouldn’t highlight any of the other columns because Google Sheets might think that those other values are dates too. Then, you can start your conditional formatting.
+The first thing that I would do I highlight the dates that you want to work on. I would just highlight the column with the dates. I wouldn’t highlight any of the other columns because Google Sheets might think that those other values are dates too. Once you have the dates selected, you can start your conditional formatting.
 
 
 ---
@@ -139,7 +139,7 @@ key: "277558f41a"
 
 
 `@script`
-Go up to Format on the menu and then Conditional Formatting. You’ll get this little dashboard that you see on the right.
+You would go up to Format on the menu and then Conditional Formatting.
 
 
 ---
@@ -156,9 +156,11 @@ center_content: true
 
 
 `@script`
-There’s three options here and they're all pertain to today's date. All three of these are going to operate differently tomorrow and they will have operated differently yesterday as well. 
+You’ll get this little dashboard that you see on the right. 
 
-I am going to use Date is. What I am actually looking for is all of the items that were made in the last week.
+There’s three options there and they all pertain to today's date. All three of these are going to operate differently tomorrow and they will have operated differently yesterday as well. 
+
+I am going to use Date is while I'm looking for all of the items that were made in the last week.
 
 
 ---
@@ -175,7 +177,7 @@ center_content: true
 
 
 `@script`
-At first, you might think that you want to look at Date is before. But, be careful. If you do Date is before, what will happen is that is that it is going to start one week in the past and go backwards. If you were to choose that, it would highlight everything more than 7 days old. That’s not what you want. Use the Date is choice on the menu.
+At first, you might think that you want to look at Date is before. But, be careful. If you do Date is before, what will happen is that is that it is going to start one week in the past and go backwards from there. If you were to choose that, it would highlight everything more than 7 days old. That’s not what you want. Use the Date is choice on the menu instead.
 
 
 ---
@@ -188,11 +190,11 @@ center_content: true
 ```
 
 `@part1`
-![In the Past Week](http://assets.datacamp.com/production/repositories/3835/datasets/b2ed09470a672912a44fbd447c9108f99aa1aac1/in_the_past_weeek_menu.png)
+![In the Past Week](http://assets.datacamp.com/production/repositories/3835/datasets/b2ed09470a672912a44fbd447c9108f99aa1aac1/in_the_past_week_menu.png)
 
 
 `@script`
-In the next box, you want to use the Past week in order to get the last seven days.
+In the next box, you want to use the Past week in order to get the last seven days. Choose the Past week and click done.
 
 
 ---
@@ -205,7 +207,7 @@ center_content: true
 ```
 
 `@part1`
-![In the Past Week](http://assets.datacamp.com/production/repositories/3835/datasets/20c1e777f52fe4e97daf5fab2076b4588ec54e1c/in_the_past_weeek.png)
+![In the Past Week](http://assets.datacamp.com/production/repositories/3835/datasets/da914adfa7f2576369ad4026fb35f7a6aae8c826/in_the_past_week.png)
 
 
 `@script`
