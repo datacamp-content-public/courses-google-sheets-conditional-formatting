@@ -152,7 +152,7 @@ center_content: true
 ```
 
 `@part1`
-![Within the Last Week](http://assets.datacamp.com/production/repositories/3835/datasets/03ea26ea475beb595bb8fd28b0544341f07e1d7e/date_is.png)
+![Within the Last Week](http://assets.datacamp.com/production/repositories/3835/datasets/ca755e2ce7184e5b2f656aad8e6454ec1f26a832/date_is_green.png)
 
 
 `@script`
