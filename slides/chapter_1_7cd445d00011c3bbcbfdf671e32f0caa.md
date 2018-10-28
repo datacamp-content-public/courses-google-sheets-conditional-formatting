@@ -2,7 +2,7 @@
 title: Insert title here
 key: 7cd445d00011c3bbcbfdf671e32f0caa
 video_link:
-  mp3: http://assets.datacamp.com/production/repositories/3835/datasets/09cbe83bfc87c5ee6aa20f7a2be4b18a29ac7c46/warehouse_inv.mp3
+  mp3: http://assets.datacamp.com/production/repositories/3835/datasets/373fa248c6821e03f1d41c857ca8819124522266/ice_audio_20181026-151400_3.mp3
 
 ---
 ## Conditional Formatting with Today's Date
@@ -89,7 +89,7 @@ center_content: true
 
 
 `@script`
-Mine is the United States. If that’s not correct for you, change it here if you need to. Then, you can work with the dates in a way that makes sense to you.
+Mine is the United States. If that’s not correct for you, change it here if you need to. Then, you can work with dates in a way that makes sense to you.
 
 
 ---
@@ -106,7 +106,7 @@ center_content: true
 
 
 `@script`
-Our example is a table of data that represents a warehouse in the back of a shop. Every line is the same item except that they have each unique SKU based on the date on which they were manufactured. You just found out that everything manufactured in the last week needs to be sent back. We’re going to do some formatting to point out which items are the ones that were made in the last week.
+Our example is a table of data that represents a warehouse in the back of a shop. Every line is the same item except that they have each unique SKU based on the date on which they were manufactured. You just found out that everything manufactured in the last week needs to be sent back. So we’re going to do some formatting to point out which items are the ones that were made in the last week.
 
 
 ---

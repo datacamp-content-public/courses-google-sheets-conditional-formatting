@@ -8,107 +8,51 @@
       }
     },
     {
-      "timing": 0.011487803141313707,
+      "timing": 0.011318291415429579,
       "state": {
         "indexh": 0,
         "indexf": 0
       }
     },
     {
-      "timing": 0.05961226007601463,
+      "timing": 0.06426461119715823,
       "state": {
         "indexh": 1,
         "indexf": -1
       }
     },
     {
-      "timing": 0.09534780091736803,
+      "timing": 0.10433270624109851,
       "state": {
         "indexh": 1,
         "indexf": 0
       }
     },
     {
-      "timing": 0.15929585055933612,
+      "timing": 0.16113411351539425,
       "state": {
         "indexh": 2,
         "indexf": -1
       }
     },
     {
-      "timing": 0.1828063452614103,
+      "timing": 0.20484162768847888,
       "state": {
         "indexh": 2,
         "indexf": 0
       }
     },
     {
-      "timing": 0.19686444923535246,
+      "timing": 0.21904603310324455,
       "state": {
         "indexh": 2,
         "indexf": 1
       }
     },
     {
-      "timing": 0.2261577571071767,
+      "timing": 0.25006840750272796,
       "state": {
         "indexh": 3,
-        "indexf": -1
-      }
-    },
-    {
-      "timing": 0.26257586019565293,
-      "state": {
-        "indexh": 4,
-        "indexf": -1
-      }
-    },
-    {
-      "timing": 0.31066782314107316,
-      "state": {
-        "indexh": 5,
-        "indexf": -1
-      }
-    },
-    {
-      "timing": 0.45614008584898824,
-      "state": {
-        "indexh": 6,
-        "indexf": -1
-      }
-    },
-    {
-      "timing": 0.5629019644094799,
-      "state": {
-        "indexh": 7,
-        "indexf": -1
-      }
-    },
-    {
-      "timing": 0.8211121378065664,
-      "state": {
-        "indexh": 8,
-        "indexf": -1
-      }
-    },
-    {
-      "timing": 0.8500452300307979,
-      "state": {
-        "indexh": 9,
-        "indexf": -1
-      }
-    },
-    {
-      "timing": 0.9097197327432753,
-      "state": {
-        "indexh": 10,
-        "indexf": -1
-      }
-    },
-    {
-      "timing": 0.9968472854521883,
-      "state": {
-        "indexh": 11,
         "indexf": -1
       }
     }
