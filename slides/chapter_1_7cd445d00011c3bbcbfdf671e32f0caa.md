@@ -207,7 +207,7 @@ center_content: true
 ```
 
 `@part1`
-![In the Past Week](http://assets.datacamp.com/production/repositories/3835/datasets/da914adfa7f2576369ad4026fb35f7a6aae8c826/in_the_past_week.png)
+![In the Past Week](http://assets.datacamp.com/production/repositories/3835/datasets/315b7c7287893c8327d0dd3f4c3fc9dfe9dce0ad/in_the_past_week.png)
 
 
 `@script`
