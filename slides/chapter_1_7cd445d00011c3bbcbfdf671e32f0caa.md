@@ -158,7 +158,7 @@ center_content: true
 `@script`
 These three options, that are indicated on the right, are the options that work around the value of today's date. 
 
-These three functions are going to operate differently tomorrow and they will have operated differently yesterday as well.
+These three options are going to operate differently tomorrow and they will have operated differently yesterday as well.
 
 The Date is option will allow you to pick a particular day or range of dates. Since you are looking for just one week, you should use Date is option.
 
