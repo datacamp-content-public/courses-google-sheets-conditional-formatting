@@ -55,7 +55,7 @@ MM/DD/YYYY{{2}}
 
 
 `@script`
-I’m in a country that is showing the month first, and then the day, and then the year. You might not be. Just make sure yours is right for the way you want to work on it.
+And another thing to keep in mind as we go through these date exercises, is that I’m in a country that is showing the month first, and then the day, and then the year. You might not be. Just make sure yours is right for the way you want to work on it.
 
 
 ---
@@ -143,29 +143,6 @@ You would go up to Format on the menu and then select Conditional Formatting fro
 
 
 ---
-## Date is Before
-
-```yaml
-type: "FullImageSlide"
-key: "22f63169d5"
-center_content: true
-```
-
-`@part1`
-![Date is Before](http://assets.datacamp.com/production/repositories/3835/datasets/5d681344d3e0f186adfef59ce03859d92274f279/date_is_before.png)
-
-
-`@script`
-You’ll get this little dashboard that you see on the right. 
-
-There’s three options there and they all pertain to today's date. All three of those are going to operate differently tomorrow and they will have operated differently yesterday as well.
-
-So, I am going to use Date while I'm looking for all of the items that were made in the last week.
-
-But,at first, you may think that you want use Date is before. But be careful. If you do Date is before, what will happen is that it is going to start one week in the past and go backward from there. So, if you were to choose that, it would highlight everything more than seven days old.
-
-
----
 ## Date Is
 
 ```yaml
@@ -175,13 +152,15 @@ center_content: true
 ```
 
 `@part1`
-![Within the Last Week](http://assets.datacamp.com/production/repositories/3835/datasets/83042cc50b673942acde155aea5e065104bd9171/date_is.png)
+![Within the Last Week](http://assets.datacamp.com/production/repositories/3835/datasets/03ea26ea475beb595bb8fd28b0544341f07e1d7e/date_is.png)
 
 
 `@script`
-That's not what you want.
+These three options, that are indicated on the right, are the options that work around the value of today's date. 
 
-Use the Date is choice on the menu instead.
+These three functions are going to operate differently tomorrow and they will have operated differently yesterday as well.
+
+The Date is option will allow you to pick a particular day or range of dates. Since you are looking for just one week, you should use Date is option.
 
 
 ---
