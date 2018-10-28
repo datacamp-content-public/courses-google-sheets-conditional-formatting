@@ -55,7 +55,7 @@ MM/DD/YYYY{{2}}
 
 
 `@script`
-The next thing that you probably noticed by now is that I’m in a country that is showing the month first, and then the day, and then the year. You might not be. Just make sure yours is right for the way you want to work on it.
+I’m in a country that is showing the month first, and then the day, and then the year. You might not be. Just make sure yours is right for the way you want to work on it.
 
 
 ---
@@ -68,7 +68,7 @@ center_content: true
 ```
 
 `@part1`
-![settings](http://assets.datacamp.com/production/repositories/3835/datasets/0983906b57a3f066ff0c06a195e6509fd8aad68f/settings_zoomed_out.png)
+![settings](http://assets.datacamp.com/production/repositories/3835/datasets/a4aa1ba645f62f2ec6c81f324a671cece7dd2e9b/settings.png)
 
 
 `@script`
@@ -102,7 +102,7 @@ center_content: true
 ```
 
 `@part1`
-![Table of Data](http://assets.datacamp.com/production/repositories/3835/datasets/520c3228d45f84207e00c591932bd74079cf981e/table_of_data.png)
+![Table of Data](http://assets.datacamp.com/production/repositories/3835/datasets/c7bf774787be24ff420ae9ae73089d8d133f2a5f/table_of_data.png)
 
 
 `@script`
@@ -119,7 +119,7 @@ center_content: true
 ```
 
 `@part1`
-![Highlight the Dates](http://assets.datacamp.com/production/repositories/3835/datasets/7f362b96b365ee0d6510aea95ab4e35ba79ed015/highlight_dates.png)
+![Highlight the Dates](http://assets.datacamp.com/production/repositories/3835/datasets/b802bb466d0ababa9210b8086dc7e3ec31f581ea/highlight_dates.png)
 
 
 `@script`
@@ -135,32 +135,11 @@ key: "277558f41a"
 ```
 
 `@part1`
-![Menu](http://assets.datacamp.com/production/repositories/3835/datasets/77136595be165d0148745d235a61178aefaad191/menu.png)
+![Menu](http://assets.datacamp.com/production/repositories/3835/datasets/97528a114356007cc9e67c967fdf0045f6f6f939/menu.png)
 
 
 `@script`
 You would go up to Format on the menu and then select Conditional Formatting from there.
-
-
----
-## Within the Last Week
-
-```yaml
-type: "FullImageSlide"
-key: "97ac571745"
-center_content: true
-```
-
-`@part1`
-![Within the Last Week](http://assets.datacamp.com/production/repositories/3835/datasets/b9cd0709c0e00e9e4c679eb0607193afa3716cd6/date_is.png)
-
-
-`@script`
-You’ll get this little dashboard that you see on the right. 
-
-There’s three options there and they all pertain to today's date. All three of these are going to operate differently tomorrow and they will have operated differently yesterday as well. 
-
-I am going to use Date is while I'm looking for all of the items that were made in the last week.
 
 
 ---
@@ -173,11 +152,32 @@ center_content: true
 ```
 
 `@part1`
-![Date is Before](http://assets.datacamp.com/production/repositories/3835/datasets/1466cdac73cc2be7cf5967b8f8e5e211e5128a19/date_is_before.png)
+![Date is Before](http://assets.datacamp.com/production/repositories/3835/datasets/5d681344d3e0f186adfef59ce03859d92274f279/date_is_before.png)
 
 
 `@script`
-But at first, you might think that you want to look at Date is before. But, be careful. If you do Date is before, what will happen is that is that it is going to start one week in the past and go backwards from there. If you were to choose that, it would highlight everything more than 7 days old. That’s not what you want. Use the Date is choice on the menu instead.
+But at first, you might think that you want to look at Date is before. But, be careful. If you do Date is before, it picks a point and time and highlights everything before that. That’s not what you want. Use the Date is choice on the menu instead.
+
+
+---
+## Within the Last Week
+
+```yaml
+type: "FullImageSlide"
+key: "97ac571745"
+center_content: true
+```
+
+`@part1`
+![Within the Last Week](http://assets.datacamp.com/production/repositories/3835/datasets/83042cc50b673942acde155aea5e065104bd9171/date_is.png)
+
+
+`@script`
+You’ll get this little dashboard that you see on the right. 
+
+There’s three options there and they all pertain to today's date. All three of these are going to operate differently tomorrow and they will have operated differently yesterday as well. 
+
+I am going to use Date is while I'm looking for all of the items that were made in the last week.
 
 
 ---
@@ -190,7 +190,7 @@ center_content: true
 ```
 
 `@part1`
-![In the Past Week](http://assets.datacamp.com/production/repositories/3835/datasets/b2ed09470a672912a44fbd447c9108f99aa1aac1/in_the_past_week_menu.png)
+![In the Past Week](http://assets.datacamp.com/production/repositories/3835/datasets/f56e02afe971b018e114cf77eece9843663b9497/in_the_past_week_menu.png)
 
 
 `@script`
