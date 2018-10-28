@@ -156,11 +156,15 @@ center_content: true
 
 
 `@script`
-But at first, you might think that you want to look at Date is before. But, be careful. If you do Date is before, it picks a point and time and highlights everything before that. That’s not what you want. Use the Date is choice on the menu instead.
+You’ll get this little dashboard that you see on the right. 
+
+There’s three options there and they all pertain to today's date. All three of these are going to operate differently tomorrow and they will have operated differently yesterday as well.
+
+At first, you may think that you want use Date is before. But, if you do Date is before, it picks a point and time and highlights everything before that. That’s not what you want.
 
 
 ---
-## Within the Last Week
+## Date Is
 
 ```yaml
 type: "FullImageSlide"
@@ -173,11 +177,9 @@ center_content: true
 
 
 `@script`
-You’ll get this little dashboard that you see on the right. 
+Use the Date is choice on the menu instead.
 
-There’s three options there and they all pertain to today's date. All three of these are going to operate differently tomorrow and they will have operated differently yesterday as well. 
-
-I am going to use Date is while I'm looking for all of the items that were made in the last week.
+This will let me choose a range of dates that are relative to today's date.
 
 
 ---
