@@ -158,9 +158,11 @@ center_content: true
 `@script`
 You’ll get this little dashboard that you see on the right. 
 
-There’s three options there and they all pertain to today's date. All three of these are going to operate differently tomorrow and they will have operated differently yesterday as well.
+There’s three options there and they all pertain to today's date. All three of those are going to operate differently tomorrow and they will have operated differently yesterday as well.
 
-At first, you may think that you want use Date is before. But, if you do Date is before, it picks a point and time and highlights everything before that. That’s not what you want.
+So, I am going to use Date while I'm looking for all of the items that were made in the last week.
+
+But,at first, you may think that you want use Date is before. But be careful. If you do Date is before, what will happen is that it is going to start one week in the past and go backward from there. So, if you were to choose that, it would highlight everything more than seven days old.
 
 
 ---
@@ -177,9 +179,9 @@ center_content: true
 
 
 `@script`
-Use the Date is choice on the menu instead.
+That's not what you want.
 
-This will let me choose a range of dates that are relative to today's date.
+Use the Date is choice on the menu instead.
 
 
 ---
